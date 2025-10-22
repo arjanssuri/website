@@ -1,0 +1,9 @@
+LHR: lhr_aero_car.png, lhr_aero_shell.png, 
+NXG: nxg.png
+UT: robotics.mov
+I joined LHR and Texas Blockhain in 2025.  This is a loom that you should embed for my utsw research video: 
+
+UTSW: <div style="position: relative; padding-bottom: 54%; height: 0;"><iframe src="https://www.loom.com/embed/11cfee581f824655bce0321c58b7b455?sid=20dd1344-c9f4-41ba-a5f4-e4eea372c5a7" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+here is the embed for palantir @ UT Hackathon: <div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/3f7c6a7f54494bf59201831ee79d16d9?sid=6cce3a02-58aa-4258-b719-3951c6ca1e03" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>\
+
+Note that I'm not allowed to share any of my work at hScore or Onix 
